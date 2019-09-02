@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.vagrant/
+*.log
+*.backup
+*.retry
+*.terraform
+frontend-bak/
