@@ -1,4 +1,4 @@
-Django==1.9.5
+Django==1.11.29
 psycopg2==2.6.1
 djangorestframework==3.3.3
 django-oauth-toolkit==0.10.0
